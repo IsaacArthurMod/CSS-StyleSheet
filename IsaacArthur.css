@@ -2,6 +2,11 @@ body, .content, .side, .icon-menu a, .leavemoderator, .leavecontributor-button, 
 background-image: url(%%starry-night%%) !important;
 }
 
+.titlebox .subscribers,
+.titlebox .users-online {
+    color: #D3D3D3;
+}
+
 .sitetable, .thing, .linklisting {
 background-color: transparent !important;
 }
